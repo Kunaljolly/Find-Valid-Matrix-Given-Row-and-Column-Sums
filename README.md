@@ -6,7 +6,6 @@ Find any matrix of non-negative integers of size rowSum.length x colSum.length t
 
 Return a 2D array representing any matrix that fulfills the requirements. It's guaranteed that at least one matrix that fulfills the requirements exists.
 
- 
 
 Example 1:
 
